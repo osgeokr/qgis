@@ -1,1 +1,1 @@
-# qgiskr
+# qgis
